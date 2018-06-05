@@ -10,7 +10,7 @@ $("#main").after(
 '<div class="scroll-images scrollable-x">' +
  '<a href="https://cytu.be/r/I_love_the_90s"><img src="http://ilovethe90stour.com/wp-content/themes/i_love_the_90s/images/logo.png" class="kek" /></a>' +
 '<a href="https://cytu.be/r/TheDoctorsTARDIS"><img src="http://stuffpoint.com/doctor-who/image/211688-doctor-who-doctor-who-banner.jpg" class="kek" /></a>' +
- '<a href="https://cytu.be/r/seinfeldHD"><img src="//s14.postimg.cc/yv5y9gqz5/w3_WPXIa.png" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/seinfeldHD"><img src="http://stuffpoint.com/doctor-who/image/211688-doctor-who-doctor-who-banner.jpg" class="kek" /></a>' +
  '<a href="https://cytu.be/r/billcartoon"><img src="//s14.postimg.cc/c6gr9whb5/Bdr_UNQZ.png" class="kek" /></a>' +
  '<a href="https://cytu.be/r/spookyshows"><img src="//s14.postimg.cc/twifuuuv5/2_LB9834.png" class="kek" /></a>' +
  '<a href="https://cytu.be/r/buffy"><img src="//s14.postimg.cc/6iagj0koh/Gx_CKt_EZ.png" class="kek" /></a>' +
