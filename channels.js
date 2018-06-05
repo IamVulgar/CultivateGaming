@@ -10,13 +10,13 @@ $("#main").after(
 '<div class="scroll-images scrollable-x">' +
  '<a href="https://cytu.be/r/I_love_the_90s"><img src="http://ilovethe90stour.com/wp-content/themes/i_love_the_90s/images/logo.png" class="kek" /></a>' +
 '<a href="https://cytu.be/r/TheDoctorsTARDIS"><img src="https://frpnet.net/wp-content/uploads/2013/08/doctor-who-banner.jpg" class="kek" /></a>' +
- '<a href="https://cytu.be/r/seinfeldHD"><img src="s14.postimg.cc/c6gr9whb5/Bdr_UNQZ.png" class="kek" /></a>' +
- '<a href="https://cytu.be/r/billcartoon"><img src="//s14.postimg.cc/c6gr9whb5/Bdr_UNQZ.png" class="kek" /></a>' +
- '<a href="https://cytu.be/r/spookyshows"><img src="//s14.postimg.cc/twifuuuv5/2_LB9834.png" class="kek" /></a>' +
- '<a href="https://cytu.be/r/buffy"><img src="//s14.postimg.cc/6iagj0koh/Gx_CKt_EZ.png" class="kek" /></a>' +
- '<a href="https://cytu.be/r/spooktober"><img src="//s14.postimg.cc/6iagj0se9/8h07kl_M.png" class="kek" /></a>' +
-'<a href="https://cytu.be/r/CopsTube"><img src="//s14.postimg.cc/rf6onst0x/v_DJV3_Of.png" class="kek" /></a>' +
-'<a href="https://cytu.be/r/BillTube"><img src="//s14.postimg.cc/6iagj52pt/Kzcwj_LR.png" class="kek" /></a>' +
+ '<a href=""><img src="" class="kek" /></a>' +
+ '<a href=""><img src="" class="kek" /></a>' +
+ '<a href=""><img src="" class="kek" /></a>' +
+ '<a href=""><img src="" class="kek" /></a>' +
+ '<a href=""><img src="" class="kek" /></a>' +
+'<a href=""><img src="" class="kek" /></a>' +
+'<a href=""><img src="" class="kek" /></a>' +
 
 '</div></div></div>');
 // The HorizontalScroller Class accepts a jQuery object as its only argument
