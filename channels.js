@@ -10,7 +10,7 @@ $("#main").after(
 '<div class="scroll-images scrollable-x">' +
  '<a href="https://cytu.be/r/I_love_the_90s"><img src="http://ilovethe90stour.com/wp-content/themes/i_love_the_90s/images/logo.png" class="kek" /></a>' +
 '<a href="https://cytu.be/r/TheDoctorsTARDIS"><img src="https://frpnet.net/wp-content/uploads/2013/08/doctor-who-banner.jpg" class="kek" /></a>' +
- '<a href="https://cytu.be/r/TheFlash"><img src="http://www.ramascreen.com/wp-content/uploads/2014/09/The-Flash-series-logo-e1410726453553.jpg" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/TheFlash"><img src="http://pluspng.com/img-png/flash-hd-png--1000.png" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
