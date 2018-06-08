@@ -8,9 +8,9 @@ $("#main").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
-'<a href="https://cytu.be/r/TheDoctorsTARDIS"><img src="https://lrmonline.com/wp-content/uploads/2017/10/The-police-Box-TARDIS-from-Doctor-Who-in-space.jpg" class="kek" /></a>' +
-'<a href="https://cytu.be/r/TheFlash"><img src="https://www.quirkybyte.com/wp-content/uploads/2016/06/url-91.jpg" class="kek" /></a>' +
- '<a href="https://cytu.be/r/I_love_the_90s"><img src="https://i.imgur.com/8n8kGBD.jpg" class="kek" /></a>' +
+'<a href="https://www.youtube.com/channel/UCsvazPPlhZlch0-Z3wPByeg"><img src="https://steemitimages.com/DQmNjm3WHR4bdbawUe1vmCFgJCqqi1oHcrvUV7pCQuhsKaD/dragon_balls_by_kaylathehedgehog-d8s4geo.png" class="kek" /></a>' +
+'<a href=""><img src="" class="kek" /></a>'
+ '<a href=""><img src="" class="kek" /></a>'
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
