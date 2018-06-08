@@ -8,7 +8,7 @@ $("#main").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
-'<a href="https://www.youtube.com/channel/UCsvazPPlhZlch0-Z3wPByeg"><img src="https://steemitimages.com/DQmNjm3WHR4bdbawUe1vmCFgJCqqi1oHcrvUV7pCQuhsKaD/dragon_balls_by_kaylathehedgehog-d8s4geo.png" class="kek" /></a>' +
+'<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://steemitimages.com/DQmNjm3WHR4bdbawUe1vmCFgJCqqi1oHcrvUV7pCQuhsKaD/dragon_balls_by_kaylathehedgehog-d8s4geo.png" class="kek" /></a>' +
 '<a href=""><img src="" class="kek" /></a>'
  '<a href=""><img src="" class="kek" /></a>'
  '<a href=""><img src="" class="kek" /></a>' +
