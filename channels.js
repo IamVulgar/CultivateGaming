@@ -8,9 +8,9 @@ $("#main").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
+ '<a href="https://cytu.be/r/TheFlash"><img src="https://i.imgur.com/FxVwMhM.jpg" class="kek" /></a>' +
 '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://c1-zingpopculture.eb-cdn.com.au/merchandising/images/packshots/f333774176e54c579b3f011451cc3182_Large.png" class="kek" /></a>' +
-'<a href=""><img src="" class="kek" /></a>'
- '<a href=""><img src="" class="kek" /></a>'
+ '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
