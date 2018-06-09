@@ -10,7 +10,7 @@ $("#main").after(
 '<div class="scroll-images scrollable-x">' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
 '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
- '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://cdna.artstation.com/p/assets/images/images/007/622/292/original/jacob-boner-gokufinal.gif?1507407483" class="kek" /></a>' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' + 
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
