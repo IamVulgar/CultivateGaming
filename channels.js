@@ -9,9 +9,9 @@ $("#main").after(
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
-'<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
+'<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://vignette.wikia.nocookie.net/mugen/images/7/77/Gokuchoujin.gif/revision/latest?cb=20150406005959" class="kek" /></a>' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://cdna.artstation.com/p/assets/images/images/007/622/292/original/jacob-boner-gokufinal.gif?1507407483" class="kek" /></a>' +
- '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' + 
+ '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://im5.ezgif.com/tmp/ezgif-5-628777171a.gif" class="kek" /></a>' + 
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
