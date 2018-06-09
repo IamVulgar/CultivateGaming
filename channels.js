@@ -9,10 +9,10 @@ $("#main").after(
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
-'<a href=""><img src="" class="kek" /></a>' + 
- '<a href=""><img src="" class="kek" /></a>' +
- '<a href=""><img src="" class="kek" /></a>' + 
- '<a href=""><img src="" class="kek" /></a>' +
+'<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' + 
+ '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.imgur.com/7dv6IBT.png" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
 '<a href=""><img src="" class="kek" /></a>' +
