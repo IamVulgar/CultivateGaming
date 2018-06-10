@@ -12,7 +12,7 @@ $("#main").after(
 '<a href="https://cytu.be/r/DragonBallAbridged"><img src="http://4.bp.blogspot.com/-LoB8IQFDvs4/VinM4AgWI4I/AAAAAAAAFRM/Ee2HPE0g3xo/s1600/Full%2BHD%2B1080%2BPx.png" class="kek" /></a>' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://i.pinimg.com/originals/5d/b3/c2/5db3c242c2467987cb84e3af369e88a7.png" class="kek" /></a>' +
  '<a href="https://cytu.be/r/DragonBallAbridged"><img src="http://4.bp.blogspot.com/-LoB8IQFDvs4/VinM4AgWI4I/AAAAAAAAFRM/Ee2HPE0g3xo/s1600/Full%2BHD%2B1080%2BPx.png" class="kek" /></a>' + 
- '<a href="https://cytu.be/r/DragonBallAbridged"><img src="blob:https://imgur.com/00d0d347-7e65-449b-9758-d13fb242dc8f" class="kek" /></a>' +
+ '<a href="https://cytu.be/r/DragonBallAbridged"><img src="https://media.giphy.com/media/35Jji9yjtnUrAC2kx7/giphy.gif" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
 '<a href=""><img src="" class="kek" /></a>' +
