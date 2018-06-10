@@ -10,7 +10,7 @@ $("#main").after(
 '<div class="scroll-images scrollable-x">' +
  '<a href="https://www.youtube.com/user/TeamFourStar"><img src="https://vignette.wikia.nocookie.net/mugen/images/7/77/Gokuchoujin.gif/revision/latest?cb=20150406005959" class="kek" /></a>' +
 '<a href="https://www.youtube.com/user/TeamFourStar"><img src="http://4.bp.blogspot.com/-LoB8IQFDvs4/VinM4AgWI4I/AAAAAAAAFRM/Ee2HPE0g3xo/s1600/Full%2BHD%2B1080%2BPx.png" class="kek" /></a>' +
- '<a href="https://www.youtube.com/user/TeamFourStar"><img src="https://i.pinimg.com/originals/5d/b3/c2/5db3c242c2467987cb84e3af369e88a7.png" class="kek" /></a>' +
+ '<a href="https://www.youtube.com/user/TeamFourStar"><img src="https://img00.deviantart.net/caba/i/2012/317/d/e/fanart_dragon_ball_z_abridged_logo_by_peetzaahhh2010-d5kxnyj.png" class="kek" /></a>' +
  '<a href="https://www.youtube.com/user/TeamFourStar"><img src="http://4.bp.blogspot.com/-LoB8IQFDvs4/VinM4AgWI4I/AAAAAAAAFRM/Ee2HPE0g3xo/s1600/Full%2BHD%2B1080%2BPx.png" class="kek" /></a>' + 
  '<a href="https://www.youtube.com/user/TeamFourStar"><img src="https://media.giphy.com/media/35Jji9yjtnUrAC2kx7/giphy.gif" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
