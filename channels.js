@@ -12,7 +12,7 @@ $("#main").after(
 '<a href=""><img src="http://www.solidbackgrounds.com/images/1920x1080/1920x1080-black-solid-color-background.jpg" class="kek" /></a>' +
  '<a href="https://www.cultivategaming.com/"><img src="https://pbs.twimg.com/media/Dcmq51MUwAAvGoG.jpg" class="kek" /></a>' +
  '<a href=""><img src="http://www.solidbackgrounds.com/images/1920x1080/1920x1080-black-solid-color-background.jpg" class="kek" /></a>' + 
- '<a href=""><img src="" /></a>' +
+ '<a href="https://www.twitch.tv/cultivategaming"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/jordan94600-profile_image-b452013d8138bb11-300x300.png" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
 '<a href=""><img src="" class="kek" /></a>' +
