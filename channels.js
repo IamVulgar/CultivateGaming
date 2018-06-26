@@ -8,7 +8,7 @@ $("#main").after(
 '<p class="fa fa-angle-right"></p>' +
 '</div>' +
 '<div class="scroll-images scrollable-x">' +
- '<a href="https://dashthreadsco.com/pages/cultivate"><img src="https://pbs.twimg.com/media/DZwNKd-V4AA4MeY.jpg" class="kek" /></a>' +
+ '<a href="https://dashthreadsco.com/pages/cultivate"><img src="https://cdn.shopify.com/s/files/1/2236/4837/products/DT-Cultivate-Hat_1600x.png?v=1522215247" class="kek" /></a>' +
 '<a href=""><img src="" class="kek" /></a>' +
  '<a href="https://www.cultivategaming.com/"><img src="https://pbs.twimg.com/media/Dcmq51MUwAAvGoG.jpg:large" class="kek" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' + 
