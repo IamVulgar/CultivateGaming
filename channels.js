@@ -10,7 +10,7 @@ $("#main").after(
 '<div class="scroll-images scrollable-x">' +
  '<a href="https://dashthreadsco.com/pages/cultivate"><img src="https://cdn.shopify.com/s/files/1/2236/4837/products/DT-Cultivate-Hat_1600x.png?v=1522215247" class="kek" /></a>' +
 '<a href=""><img src="http://www.solidbackgrounds.com/images/1920x1080/1920x1080-black-solid-color-background.jpg" class="kek" /></a>' +
- '<a href="https://www.cultivategaming.com/"><img src="https://static.wixstatic.com/media/242edb_92cae676a32a40f3a2c64e98998625c0~mv2.png/v1/fill/w_808,h_453,al_c,usm_0.66_1.00_0.01/242edb_92cae676a32a40f3a2c64e98998625c0~mv2.png" class="kek" /></a>' +
+ '<a href="https://www.cultivategaming.com/"><img src="https://static.wixstatic.com/media/242edb_1406731e6bf24840b0031f6321f58563~mv2.png/v1/fill/w_488,h_502,al_c,usm_0.66_1.00_0.01/242edb_1406731e6bf24840b0031f6321f58563~mv2.png" class="kek" /></a>' +
  '<a href=""><img src="http://www.solidbackgrounds.com/images/1920x1080/1920x1080-black-solid-color-background.jpg" class="kek" /></a>' + 
  '<a href="https://www.twitch.tv/cultivategaming"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/jordan94600-profile_image-b452013d8138bb11-300x300.png" /></a>' +
  '<a href=""><img src="" class="kek" /></a>' +
